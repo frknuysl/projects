@@ -1,0 +1,249 @@
+1, Afghanistan, UZ
+2, Albania, IR
+3, Albania, TM
+4, Algeria, MX
+5, American Samoa, AF
+6, Andorra, NI
+7, Angola, MZ
+8, Angola, UG
+9, Anguilla, SD
+10, Anguilla, TR
+11, Antarctica (the territory South of 60 deg S), DM
+12, Antigua and Barbuda, CL
+13, Argentina, ME
+14, Argentina, SI
+15, Argentina, VE
+16, Armenia, NR
+17, Armenia, VC
+18, Aruba, MV
+19, Aruba, TL
+20, Aruba, WS
+21, Australia, IN
+22, Australia, TO
+23, Austria, AL
+24, Austria, JM
+25, Bahrain, PS
+26, Bangladesh, LR
+27, Bermuda, NA
+28, Bhutan, AL
+29, Bhutan, NE
+30, Bolivia, BJ
+31, Bolivia, ID
+32, Bouvet Island (Bouvetoya), TN
+33, Brazil, GW
+34, Brazil, NG
+35, Brazil, ZM
+36, British Indian Ocean Territory (Chagos Archipelago), TD
+37, British Indian Ocean Territory (Chagos Archipelago), TR
+38, British Virgin Islands, IL
+39, Brunei Darussalam, BW
+40, Bulgaria, HT
+41, Bulgaria, MV
+42, Cambodia, RW
+43, Cameroon, KM
+44, Canada, MC
+45, Cayman Islands, TG
+46, Chile, FM
+47, Christmas Island, TN
+48, Cocos (Keeling) Islands, VE
+49, Comoros, LR
+50, Congo, LT
+51, Congo, TW
+52, Congo, UG
+53, Cook Islands, FJ
+54, Cook Islands, MR
+55, Costa Rica, IT
+56, Costa Rica, MZ
+57, Cote d'Ivoire, AE
+58, Cote d'Ivoire, BA
+59, Cote d'Ivoire, ST
+60, Cuba, SC
+61, Cyprus, DJ
+62, Cyprus, EE
+63, Cyprus, MU
+64, Czech Republic, PG
+65, Denmark, BZ
+66, Djibouti, ML
+67, Dominica, BG
+68, Ecuador, BY
+69, Egypt, LY
+70, El Salvador, ME
+71, Eritrea, BO
+72, Estonia, CO
+73, Estonia, JO
+74, Estonia, TT
+75, Estonia, UA
+76, Ethiopia, CU
+77, Faroe Islands, GR
+78, Fiji, MT
+79, France, ET
+80, French Guiana, JO
+81, French Guiana, PA
+82, French Guiana, VC
+83, Gabon, DO
+84, Gabon, HR
+85, Gambia, AM
+86, Gambia, VN
+87, Germany, MR
+88, Germany, NA
+89, Gibraltar, GN
+90, Gibraltar, KG
+91, Greece, BW
+92, Greenland, BR
+93, Grenada, DM
+94, Guadeloupe, BY
+95, Guam, MV
+96, Guam, PW
+97, Guatemala, CR
+98, Guatemala, NZ
+99, Guatemala, SD
+100, Guinea, BN
+101, Guinea, PL
+102, Guyana, AL
+103, Guyana, SR
+104, Guyana, SV
+105, Haiti, KR
+106, Heard Island and McDonald Islands, MC
+107, Honduras, NG
+108, Hong Kong, BT
+109, Hungary, FJ
+110, Hungary, LI
+111, Iceland, MX
+112, India, KN
+113, India, MK
+114, Indonesia, BE
+115, Indonesia, MM
+116, Indonesia, SB
+117, Indonesia, TL
+118, Iran, CG
+119, Iraq, SO
+120, Isle of Man, MU
+121, Isle of Man, NA
+122, Italy, GE
+123, Jamaica, DM
+124, Jamaica, MM
+125, Japan, BI
+126, Kazakhstan, MK
+127, Kazakhstan, SN
+128, Kazakhstan, SO
+129, Kenya, MH
+130, Kiribati, RO
+131, Kiribati, US
+132, Korea, HT
+133, Korea, JP
+134, Korea, SL
+135, Kuwait, SR
+136, Kyrgyz Republic, LR
+137, Kyrgyz Republic, LT
+138, Kyrgyz Republic, MH
+139, Lao People's Democratic Republic, IL
+140, Lao People's Democratic Republic, NZ
+141, Latvia, ES
+142, Lesotho, PY
+143, Lesotho, SL
+144, Liberia, PT
+145, Liberia, TL
+146, Libyan Arab Jamahiriya, AR
+147, Libyan Arab Jamahiriya, DM
+148, Libyan Arab Jamahiriya, ET
+149, Libyan Arab Jamahiriya, SR
+150, Liechtenstein, KE
+151, Luxembourg, VC
+152, Macao, WS
+153, Macedonia, MW
+154, Macedonia, RS
+155, Macedonia, TH
+156, Madagascar, TD
+157, Malawi, BN
+158, Maldives, DZ
+159, Maldives, MU
+160, Mali, GE
+161, Mali, SE
+162, Malta, GW
+163, Marshall Islands, GQ
+164, Martinique, SK
+165, Martinique, SM
+166, Mauritania, SB
+167, Mauritania, UY
+168, Mayotte, CD
+169, Mexico, GT
+170, Moldova, AM
+171, Moldova, GN
+172, Monaco, PL
+173, Monaco, TN
+174, Mongolia, BR
+175, Montenegro, CI
+176, Montenegro, EE
+177, Montenegro, KP
+178, Montenegro, ZW
+179, Montserrat, BH
+180, Montserrat, KW
+181, Montserrat, LB
+182, Montserrat, LR
+183, Montserrat, MR
+184, Mozambique, BS
+185, Mozambique, JO
+186, Myanmar, DK
+187, Namibia, RU
+188, Namibia, WS
+189, Netherlands Antilles, NA
+190, Netherlands Antilles, VC
+191, New Caledonia, IL
+192, Nicaragua, BG
+193, Nicaragua, KN
+194, Niger, GB
+195, Niger, SV
+196, Niger, TO
+197, Norfolk Island, AT
+198, Norfolk Island, MD
+199, Northern Mariana Islands, AL
+200, Norway, MX
+201, Oman, MZ
+202, Palau, GQ
+203, Papua New Guinea, DM
+204, Peru, GD
+205, Peru, PA
+206, Philippines, GA
+207, Pitcairn Islands, BH
+208, Pitcairn Islands, CI
+209, Poland, KH
+210, Portugal, IS
+211, Portugal, PE
+212, Qatar, ES
+213, Reunion, CA
+214, Reunion, GB
+215, Reunion, US
+216, Romania, BH
+217, Romania, SN
+218, Russian Federation, BH
+219, Russian Federation, IE
+220, Russian Federation, IQ
+221, Rwanda, SN
+222, Saint Barthelemy, TJ
+223, Saint Kitts and Nevis, IT
+224, Saint Kitts and Nevis, MK
+225, Saint Kitts and Nevis, UZ
+226, Saint Lucia, PG
+227, Saint Martin, GH
+228, Saint Martin, HR
+229, Saint Pierre and Miquelon, GE
+230, Saint Pierre and Miquelon, MR
+231, Saint Vincent and the Grenadines, BI
+232, Saint Vincent and the Grenadines, IL
+233, Saint Vincent and the Grenadines, NI
+234, Saint Vincent and the Grenadines, PT
+235, Saint Vincent and the Grenadines, RW
+236, Saint Vincent and the Grenadines, SY
+237, Senegal, EE
+238, Serbia, YE
+239, Seychelles, AF
+240, Seychelles, IS
+241, Sierra Leone, AG
+242, Sierra Leone, CZ
+243, Sierra Leone, MU
+244, Sierra Leone, NE
+245, Singapore, DM
+246, Slovakia (Slovak Republic), MD
+247, Slovenia, GE
+248, Slovenia, LR
+249, Solomon Islands, BH
