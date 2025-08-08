@@ -1,0 +1,51 @@
+UDP Screencasting Application
+
+Bu proje, UDP protokolü üzerinden gerçek zamanlı ekran görüntüsü paylaşımı yapan basit bir Client–Server uygulamasıdır. Hem komut satırı hem de GUI (Tkinter) sürümleri mevcuttur.
+
+📌 Özellikler
+
+Sunucudan istemciye canlı ekran görüntüsü yayını
+
+UDP üzerinden hızlı veri iletimi
+
+Hem CLI hem GUI arayüz desteği
+
+IP ve Port seçme imkanı
+
+Basit kurulum ve kullanım
+
+📂 Klasör Yapısı
+├── requirements.txt → Gerekli Python paketleri
+├── server.py → Komut satırı sunucu
+├── client.py → Komut satırı istemci
+├── server_gui.py → GUI tabanlı sunucu
+└── client_gui.py → GUI tabanlı istemci
+
+⚙️ Kurulum
+Python 3.10+ önerilir.
+
+Sanal ortam oluştur (opsiyonel):
+Windows:
+python -m venv .venv
+.venv\Scripts\activate
+
+macOS/Linux:
+python -m venv .venv
+source .venv/bin/activate
+
+Gerekli paketleri yükle:
+pip install -r requirements.txt
+
+▶️ Çalıştırma
+
+Sunucu (Server):
+python server.py
+veya GUI ile:
+python server_gui.py
+
+İstemci (Client):
+python client.py
+veya GUI ile:
+python client_gui.py
+
+Not: Sunucu ile istemcinin aynı ağda olması ve belirlenen IP/Port’un firewall tarafından engellenmemesi gerekir.
